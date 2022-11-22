@@ -1,7 +1,23 @@
 .App {
   text-align: center;
+  background-color: orange;
+  background: linear-gradient(to right, rgb(253, 186, 116), rgb(253, 164, 175));
+}
+.add-todo{
+  background-color: white;
+  background: linear-gradient(to right, rgb(255, 228, 230), rgb(204, 251, 241))
 }
 
+.todo-title{
+  background-color: white;
+  background:  linear-gradient(to right, rgb(56, 189, 248), rgb(103, 232, 249))
+}
+
+.add-button{
+  background-color: white;
+  background:  linear-gradient(to right, rgb(96, 165, 250), rgb(52, 211, 153))
+  
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
